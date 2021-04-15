@@ -1,3 +1,9 @@
+<div align=center>
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https/github.com/)
+</div>
+
+
 ![hwangdae's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhwangdae&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhwangdae&theme=dark&layout=compact)
 ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=khd206)
