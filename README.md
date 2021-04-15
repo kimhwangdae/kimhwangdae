@@ -5,8 +5,8 @@
  <div>
   <h2> Introduce </h2>
     hi! :raised_hand:<br>
-    i'm KimHwangDae, a developer who is constantly tying.<br>
-    I like to develop what I learn myself.
+    i'm KimHwangDae, a developer who is constantly tying.:sweat_drops:<br>
+    I like to develop what I learn myself.:eyes:
   
   <h2> Interest</h2>
   <ul>FrondEnd </ul>
