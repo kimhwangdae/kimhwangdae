@@ -2,6 +2,8 @@
   
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https/github.com/)
   
+  <h2> Interset</h2>
+  <li> FrontEnd (React, JS)</li>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khd261@ajou.ac.kr)](mailto:khd206@ajou.ac.kr)
 </div>
