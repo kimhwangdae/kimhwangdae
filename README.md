@@ -3,7 +3,7 @@
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https/github.com/)
   
   
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=khd206@ajou.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khd261@ajou.ac.kr)](mailto:khd206@ajou.ac.kr)
 </div>
 
 ![hwangdae's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhwangdae&show_icons=true&theme=dark)
