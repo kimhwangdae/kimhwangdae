@@ -4,8 +4,8 @@
  </div>
  <div>
   <h2> Introduce </h2>
-    hi! :raised_hand:<tr>
-    i'm KimHwangDae, a developer who is constantly tying.<tr>
+    hi! :raised_hand:<br>
+    i'm KimHwangDae, a developer who is constantly tying.<br>
     I like to develop what I learn myself.
   
   <h2> Interest</h2>
